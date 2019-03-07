@@ -14,4 +14,5 @@ students.append("Tuhan") //At the end of the app
 students.insert("Chathnuka", at: 0) //To a given location
 print(students)
 
-//WELL DONBE
+//WELL DONE
+//WELL DONE 2
